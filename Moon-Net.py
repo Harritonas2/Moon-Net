@@ -627,7 +627,7 @@ def main():
            ╚═══════════════════════════════════╝
 
         """))
-        method = input(fire("┏$C2~Kserksis\t") + '\033[38;2;255;165;0m┗----->\t')
+        method = input(fire("┏$Net~User\t") + '\033[38;2;255;165;0m┗----->\t')
 
         if method.startswith("http-flood"):
             method = method.replace("$attack ", "")
