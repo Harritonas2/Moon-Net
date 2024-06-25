@@ -1,6 +1,4 @@
 colorama
 requests
-subprocess
 concurrent.futures
-random
 datetime
