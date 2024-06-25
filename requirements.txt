@@ -1,9 +1,5 @@
 colorama
-socket
-struct
 requests
-os
-time
 subprocess
 concurrent.futures
 random
